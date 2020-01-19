@@ -1,0 +1,14 @@
+# main links
+main:
+  - title: "Resume"
+    url: /cv/MarinaSergeeva.pdf
+  - title: "Posts by Category"
+    url: /categories/
+  - title: "Speaking"
+    url: /speaking/
+  # - title: "About"
+  #   url: /about/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
